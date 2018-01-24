@@ -1,7 +1,7 @@
 ##########################################
-# File:             qrscanner.py
-# Author:           CHEN Zhihan
-# Last modified:    July 8, 2016
+# File:             qrcode.py
+# Author:           XuSong
+# Last modified:    Jan 25, 2018
 ##########################################
 
 """
