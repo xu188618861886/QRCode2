@@ -1,8 +1,7 @@
 ##########################################
-# File:             util.py
-# Author:           Wang Zixu
-# Co-Author:        CHEN Zhihan
-# Last modified:    Jan 17, 2017
+# File:             qrcode.py
+# Author:           XuSong
+# Last modified:    Jan 25, 2018
 ##########################################
 
 import copy
