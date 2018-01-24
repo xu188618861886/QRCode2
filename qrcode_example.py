@@ -1,3 +1,7 @@
+# File:             qrcode.py
+# Author:           XuSong
+# Last modified:    Jan 25, 2018
+
 import qrcode
 
 qrcode.generate('Hello world!')
